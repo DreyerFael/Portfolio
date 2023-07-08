@@ -4,7 +4,7 @@
     --cor-primaria: #2C3639;
     --cor-segundaria:#A27B5C;
     --cor-terciaria:#DCD7C9;
-    --cor-hover: #3F4E4F;
+    --cor-hover: #272727;
 
     --font-primaria: 'Roboto Mono', monospace;
     --font-secundaria: 'Raleway', sans-serif;
@@ -99,7 +99,7 @@ body {
     border: 2px solid var(--cor-segundaria);
 }
 
-.apresentacao__link__link:hover{
+.apresentacao__link__navegacao:hover{
     background-color: var(--cor-hover);
 }
 
