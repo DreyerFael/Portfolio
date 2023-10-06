@@ -239,4 +239,7 @@ small.active {
   .apresentacao__conteudo {
     width: auto;
   }
+  .apresentacao__video {
+    width: auto;
+  }
 }
